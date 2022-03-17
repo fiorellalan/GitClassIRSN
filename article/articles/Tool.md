@@ -1,4 +1,11 @@
-From Wikipedia
+# Fear Inoculum
+
+## Tool
+
+
+[From Wikipedia](https://en.wikipedia.org/wiki/Fear_Inoculum)
+
+![cover](https://jazzandrock.com/wp-content/uploads/2019/08/tool-cover-ausschnitt-678x381.jpg)
 
 Fear Inoculum is the fifth studio album by American rock band Tool. 
 It was released on August 30, 2019, through Tool Dissectional, Volcano Entertainment, and RCA Records. 
@@ -23,3 +30,12 @@ Music videos also covered the theme.[28] The album also explores the concept of 
  were required in understanding the album, comparing it to a slowly developing movie.[31] Jones described it as very different 
  from their prior album 10,000 Days.[32] Music critics and journalists have described the album as progressive rock, progressive metal,
   and alternative metal.
+  
+  
+>   Control, your delusion
+> Insane and striking at random
+> Victim of your certainty
+> And therefore your doubt's not an option
+> Blameless, the tempest will be just that
+> So try as you may, feeble, your attempt to atone
+> Your words to erase all the damage cannot
